@@ -1,3 +1,6 @@
+rrtskkkkkkkk
+
+
 Pesquisa
 Sprint: Uma Sprint é uma reunião de pessoas envolvidas num projeto para promover um desenvolvimento mais focalizado do projeto. O termo está fortemente relacionado ao framework de desenvolvimento ágil Scrum. Sprints normalmente tem duração de uma a quatro semanas.
 Backlog: refere-se a um log de acumulação de trabalho num determinado intervalo de tempo. Backlog é uma espécie de estoque de folhas de requisições/encomendas relativas a produtos ainda não produzidos. Grosso modo, backlog é uma "pilha de pedidos" em espera.
@@ -7,7 +10,7 @@ Daily meeting: também conhecida por Reuniões diárias, Daily Meeting, Stand-Up
 Sprint Review: a Revisão de Sprint (Sprint Review), também conhecida como “Demonstração do Produto”, é um ponto essencial para verificação do produto. Revisar a situação do projeto no final de cada Sprint é um passo muito importante para analisar o que já foi feito até aquele momento e como prosseguir adiante.
 Spring Retrospective: é o evento que fecha a Sprint que é um ciclo de desenvolvimento de produto no Scrum. Esse é o momento no qual o time se dedica à inspecionar o seu trabalho, avaliando como foi a última Sprint e cria um plano de ação para a próxima.
 Scrum Master: O Scrum Master é o responsável por garantir que o Time Scrum se oriente pelos valores e práticas do Scrum. O Scrum Master protege o time, certificando-se de que os membros não se comprometam com compromissos além dos que eles conseguem cumprir dentro de uma Sprint.
-Product Owner:  O Product Owner representa os interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog./ç.;l
+Product Owner:  O Product Owner representa os interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
 
 
 
